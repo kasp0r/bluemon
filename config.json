@@ -1,0 +1,8 @@
+{
+  "scan_duration": 5,
+  "scan_interval": 3,
+  "sleep_duration": 1,
+  "db_path": "bluemon.sqlite",
+  "host": "0.0.0.0",
+  "port": 8080
+}
